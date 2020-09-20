@@ -17,7 +17,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: kaku's site
 email: scugjs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -31,8 +30,25 @@ github_username:  kakukosaku
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
-github:
-  is_project_page: false
+
+# Collections
+collections:
+  readme:
+    output: true
+    permalink: /:collection/:path/
+
+# Custom Variable
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "kaku"
+      bgm:
+        title: "nooope, >.<"
+        link: 
+        page:
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +69,7 @@ github:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include:
+   - _pages
+   - _readme
