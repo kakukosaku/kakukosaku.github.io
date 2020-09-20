@@ -1,8 +1,14 @@
- # 2015-12-19 23:31 成都
-
-**老王**
-
-BGM: [Tango Bello - Celine Roscheck](https://i.y.qq.com/v8/playsong.html?songid=1106002&source=yqq#wechat_redirect)
+---
+layout: readme
+date: 2015-12-19 23:31
+position: 成都
+title: 老王
+tag: -2017
+bgm:
+    title: Tango Bello - Celine Roscheck
+    link:
+    page: https://i.y.qq.com/v8/playsong.html?songid=1106002&source=yqq#wechat_redirect
+---
 
 开头，我还是想先来这么一段...
 

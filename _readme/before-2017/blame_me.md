@@ -1,8 +1,16 @@
-# 2014-10-12 23:55 成都
+---
+layout: readme
+date: 2014-10-12 23:55
+position: 成都
+title: 都怪我
+tag: -2017
+bgm:
+    title: 我是世界第一等
+    link: https://link.hhtjim.com/163/110761.mp3
+    page: https://i.y.qq.com/v8/playsong.html?songid=7091650&source=yqq#wechat_redirect
+---
 
-**都怪我**
-
-BGM: [我是世界第一等 - 刘德华](https://i.y.qq.com/v8/playsong.html?songid=7091650&source=yqq#wechat_redirect)
+BGM: [ - 刘德华](https://i.y.qq.com/v8/playsong.html?songid=7091650&source=yqq#wechat_redirect)
 
 前几天看到一句话，感觉很好...
 

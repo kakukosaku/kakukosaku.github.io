@@ -1,8 +1,14 @@
-# 2017-3-13 20:26 重庆
-
-如果游戏没有胜负
-
-BGM: [漫步 - 许巍](https://i.y.qq.com/v8/playsong.html?songid=1007825&source=yqq#wechat_redirect)
+---
+layout: readme
+date: 2017-3-13 20:26
+position: 重庆
+title: 如果游戏没有胜负
+tag: -2017
+bgm:
+    title: 漫步 - 许巍
+    link:
+    page: https://y.qq.com/n/yqq/song/001y4UQF1jweAF.html?ADTAG=h5_playsong&no_redirect=1
+---
 
 照例，开始今天的主题之前先来上一段~
 

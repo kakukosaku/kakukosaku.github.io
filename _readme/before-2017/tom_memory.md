@@ -1,8 +1,14 @@
-# 2015-9-9 14:37 成都
-
-**少龙的回忆**
-
-BGM: [少龙的回忆 - 黑石稔](https://i.y.qq.com/v8/playsong.html?songid=104878197&source=yqq#wechat_redirect)
+---
+layout: readme
+date: 2015-9-9 14:37
+position: 成都
+title: 少龙的回忆
+tag: -2017
+bgm:
+    title: 少龙的回忆 - 黑石稔
+    link: https://link.hhtjim.com/qq/003m9rRJ09IlBA.mp3
+    page: https://y.qq.com/n/yqq/song/003m9rRJ09IlBA.html?ADTAG=h5_playsong&no_redirect=1
+---
 
 照样，老王一直是个逗B的人，起码在我眼里一直是个积极乐观的人，一天我看到他坐在楼下的小树林子里，一言不发，嘴里还抽着烟。我上前问他：怎么了，最近不开心？他：我不能再这样继续下去了，召唤师峡谷需要我。
 

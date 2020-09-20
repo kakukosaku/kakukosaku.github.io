@@ -1,8 +1,16 @@
-# 2015-9-22 19:33 成都
+---
+layout: readme
+date: 2015-9-22 19:33
+position: 成都
+title: 真相只有一个
+tag: -2017
+bgm:
+    title: 大雨还在下 - 高夫
+    link: https://link.hhtjim.com/qq/0038hFDz0pKKv8.mp3
+    page: https://i.y.qq.com/v8/playsong.html?songid=102690126&source=yqq#wechat_redirect
+---
 
-**真相只有一个**
-
-BGM: [大雨还在下 - 高夫](https://i.y.qq.com/v8/playsong.html?songid=102690126&source=yqq#wechat_redirect)
+BGM: []()
 
 有一种人，他们武功盖世，除强扶弱，江湖上到处流传着他们的侠义行为，江湖上有种说法来形容这些人：装B。
 

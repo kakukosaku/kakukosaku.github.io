@@ -1,8 +1,14 @@
-# 2016-4-27 20:27 成都
-
-**友情岁月**
-
-BGM: [友情岁月 - 郑伊健](https://i.y.qq.com/v8/playsong.html?songid=103387716&source=yqq#wechat_redirect)
+---
+layout: readme
+date: 2016-4-27 20:27
+position: 成都
+title: 友情岁月
+tag: -2017
+bgm:
+    title: 友情岁月 - 郑伊健
+    link: https://link.hhtjim.com/qq/0018HU3y0n0Rv4.mp3
+    page: https://y.qq.com/n/yqq/song/0018HU3y0n0Rv4.html?ADTAG=h5_playsong&no_redirect=1
+---
 
 老王：铜锣湾只有一个陈浩南！
 

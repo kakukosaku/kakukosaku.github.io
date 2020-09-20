@@ -1,6 +1,13 @@
-# 2018/12/30
-
-**其它**
+---
+layout: readme
+date: 2018/12/30
+title: 其它
+tag: 2018
+bgm:
+    title:
+    link:
+    page:
+---
 
 我: 老王, 你知道吗? 我有话要讲
 
