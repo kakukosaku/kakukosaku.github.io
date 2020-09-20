@@ -9,9 +9,8 @@ serve() {
     $rubyenv/bundle exec $rubyenv/jekyll serve
 }
 
-update() {
-    echo "update plugin: github-pages"
-    gem update github-pages
+install() {
+    $rubyenv/bundle install
 }
 
 Action=$1
@@ -20,8 +19,8 @@ case $Action in
     "serve")
         serve
     ;;
-    "update")
-        update
+    "install")
+        install
     ;;
     *)
         echo "unk choice"
