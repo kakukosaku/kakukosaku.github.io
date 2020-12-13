@@ -4,7 +4,7 @@ date: 2020-01-11
 title: 好快的剑
 tag: 2020
 bgm:
-    title: 长路漫漫伴你闯
+    title: Sold Out
     link: http://music.163.com/song/media/outer/url?id=31010566
     page: https://music.163.com/#/song?id=400162021&userid=31010566
 ---
