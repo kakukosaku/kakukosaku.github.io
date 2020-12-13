@@ -5,8 +5,8 @@ title: 人生没有完美的Ready
 tag: 2020
 bgm:
     title: 瞬间的永恒
-    link: https://link.hhtjim.com/qq/0038H6er2K4oDl.mp3
-    page: https://y.qq.com/n/yqq/song/0038H6er2K4oDl.html?ADTAG=h5_playsong&no_redirect=1
+    link: http://music.163.com/song/media/outer/url?id=31134621
+    page: https://music.163.com/#/song?id=31134621
 ---
 
 我: 老王, 我...我时常比较缺乏自信, 考虑的比较多, 做事会显得比较犹豫.

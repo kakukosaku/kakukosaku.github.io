@@ -5,8 +5,8 @@ title: 好快的剑
 tag: 2020
 bgm:
     title: 长路漫漫伴你闯
-    link: https://link.hhtjim.com/163/400162021.mp3
-    page: https://music.163.com/#/song?id=400162021&userid=300336269
+    link: http://music.163.com/song/media/outer/url?id=31010566
+    page: https://music.163.com/#/song?id=400162021&userid=31010566
 ---
 
 我: 老王, 其实我非常感谢你, 我...
