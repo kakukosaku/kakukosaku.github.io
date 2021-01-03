@@ -8,15 +8,19 @@
 {% assign tags =  site.readme | map: 'tag' | uniq | sort | reverse %}
 {% assign articles = site.readme | sort | reverse %}
 {% for tag in tags %}
+
   {% if tag < 0 %}
   <h3>before{{ tag }} </h3>  
+  {% elsif tag == 0 %}
+    {% continue %}
   {% else %}
   <h3>{{ tag }}</h3>
   {% endif %}
+
   <ul>
   {% for self in articles %}
-    {% if self.tags contains tag %}
 
+    {% if self.tags contains tag %}
       {% if self.title contains "时间轴" %}
         <a href="{{ self.url }}"> {{ self.date | date: "%m-%d-%Y" }} - {{ self.title }}</a>
         <br>
@@ -26,8 +30,8 @@
           <a href="{{ self.url }}"> {{ self.date | date: "%Y-%m-%d" }} - {{ self.title }}</a>
         </li>
       {% endif %}
-
     {% endif %}
+
   {% endfor %}
   </ul>
 {% endfor %}
