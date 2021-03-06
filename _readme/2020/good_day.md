@@ -3,7 +3,7 @@ layout: readme
 date: 2021-01-02
 position: 北京
 title: 好春光
-tag: 0
+tag: 2020
 bgm:
     title: 好春光
     link: http://music.163.com/song/media/outer/url?id=27562927
