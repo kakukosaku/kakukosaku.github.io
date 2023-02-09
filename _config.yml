@@ -44,7 +44,7 @@ defaults:
       path: ""
     values:
       author: "kaku"
-      position: "北京"
+      position: "成都"
       bgm:
         title: "nooope, >.<"
         link: 
