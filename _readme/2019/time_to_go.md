@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/06/29
 title: 时不我待
+position: 北京
 tag: 2019
 bgm:
     title: Maps

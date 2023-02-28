@@ -2,6 +2,7 @@
 layout: readme
 date: 2020-06-13
 title: 人生没有完美的Ready
+position: 北京
 tag: 2020
 bgm:
     title: 瞬间的永恒

@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/02/16
 title: Plan B!?
+position: 北京
 tag: 2019
 bgm:
     title:

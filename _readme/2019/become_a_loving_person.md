@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/09/14
 title: 被嫌弃的松子的一生
+position: 北京
 tag: 2019
 bgm:
     title: 神秘花园

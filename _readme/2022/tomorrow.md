@@ -2,6 +2,7 @@
 layout: readme
 date: 2022-07-11
 title: 明日
+position: 成都
 tag: 2022
 bgm:
     title: 梦中蝶影

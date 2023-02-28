@@ -2,6 +2,7 @@
 layout: readme
 date: 2021-09-03
 title: 我们都是小青蛙
+position: 北京
 tag: 2021
 bgm:
     title: 被时光移动的城市 - 石进

@@ -2,6 +2,7 @@
 layout: readme
 date: 2021-07-11
 title: 在树上
+position: 北京
 tag: 2021
 bgm:
     title: 永远同在

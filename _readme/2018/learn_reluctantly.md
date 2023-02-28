@@ -2,6 +2,7 @@
 layout: readme
 date: 2018/10/02
 title: 勉强
+position: 北京
 tag: 2018
 bgm:
     title:

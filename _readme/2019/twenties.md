@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/10/19
 title: 二十几
+position: 北京
 tag: 2019
 bgm:
     title: Roll In The Deep

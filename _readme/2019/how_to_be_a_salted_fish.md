@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/07/27
 title: 咸鱼的自我修养
+position: 北京
 tag: 2019
 bgm:
     title: Sunny

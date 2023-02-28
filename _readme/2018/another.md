@@ -2,6 +2,7 @@
 layout: readme
 date: 2018/12/30
 title: 其它
+position: 北京
 tag: 2018
 bgm:
     title:

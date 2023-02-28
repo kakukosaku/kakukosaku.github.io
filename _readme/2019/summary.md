@@ -2,6 +2,7 @@
 layout: readme
 date: 2019-12-22
 title: 我不懂
+position: 北京
 tag: 2019
 bgm:
     title: Victory

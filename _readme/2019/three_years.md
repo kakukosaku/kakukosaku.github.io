@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/08/22
 title: 三年
+position: 北京
 tag: 2019
 bgm:
     title: Zunea-Zunea

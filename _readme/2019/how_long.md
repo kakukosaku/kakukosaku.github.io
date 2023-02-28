@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/09/29
 title: 忘了有多久
+position: 北京
 tag: 2019
 bgm:
     title: 童话

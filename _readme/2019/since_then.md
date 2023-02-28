@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/03/02
 title: 从今以后!?
+position: 北京
 tag: 2019
 bgm:
     title:

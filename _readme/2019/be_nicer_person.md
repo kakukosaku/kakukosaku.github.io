@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/05/02
 title: Be Nice Person
+position: 北京
 tag: 2019
 bgm:
     title:

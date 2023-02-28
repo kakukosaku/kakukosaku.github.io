@@ -2,6 +2,7 @@
 layout: readme
 date: 2018/04/21
 title: 雨天
+position: 北京
 tag: 2018
 bgm:
     title:

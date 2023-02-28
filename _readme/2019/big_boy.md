@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/05/28
 title: 大男孩
+position: 北京
 tag: 2019
 bgm:
     title: 漫步人生路

@@ -2,6 +2,7 @@
 layout: readme
 date: 2020-01-11
 title: 好快的剑
+position: 北京
 tag: 2020
 bgm:
     title: Sold Out

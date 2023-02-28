@@ -2,6 +2,7 @@
 layout: readme
 date: 2019/12/07
 title: 男人的嘴, 骗人的鬼
+position: 北京
 tag: 2019
 bgm:
     title: 烦恼歌

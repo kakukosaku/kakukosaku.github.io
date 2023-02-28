@@ -2,6 +2,7 @@
 layout: readme
 date: 2018/12/23
 title: 没头脑与不高兴
+position: 北京
 tag: 2018
 bgm:
     title:
