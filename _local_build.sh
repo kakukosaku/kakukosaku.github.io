@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-rubyenv="$HOME/.gem/ruby/2.6.0/bin"
+rubyenv="$HOME/.rbenv/versions/2.6.0/bin"
 
 serve() {
     echo "serve pages locally!"
